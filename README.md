@@ -1,6 +1,8 @@
 # DynamicUiFramework
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
+- > Project consists of multiple dynamic, generic libraries that can be installed and imported.
+- > These libraries each serve a specific element to the DOM and allow end-user customization.
 
 ## Development server
 
