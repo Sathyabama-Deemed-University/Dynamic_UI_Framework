@@ -1,0 +1,22 @@
+.container-simple{
+    padding: 5%;
+    margin: 5%;
+}
+
+.popup-dark{
+    background-color: rgb(69, 66, 66);
+}
+
+.popup-light{
+    background-color: antiquewhite;
+}
+
+.popup-
+
+.popup-interactive{
+    background-color: white;
+}
+
+.popup-interactive:hover{
+    background-color: bisque;
+}
